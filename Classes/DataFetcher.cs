@@ -1,8 +1,3 @@
-using System.IO;
-using System.Net.Http.Json;
-using System.Text.Json;
-using System.Text.Json.Serialization;
-
 class DataFetcher
 {
     private readonly HttpClient _httpClient;
